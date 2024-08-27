@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Workspace of Ziqi Wang"
+title                    : "Ziqi Wang -Academic Homepage"
 description              : " Und verloren sei uns der Tag, wo nicht ein Mal getanzt wurde."
 #repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -46,7 +46,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0006-7785-6597"
+  orcid            : "https://orcid.org/0009-0006-7785-6597"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
