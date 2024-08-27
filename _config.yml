@@ -22,13 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ziqi Wang"
-  avatar           : "images/xjpic.jpg"
+  avatar           : "runningman.jpg"
   bio              : "Harbin Institute of Technology"
-  location         : "Liaoning, China"
+  location         : "China"
+  email            : "perfectwzq@gmail.com"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uQ24fEgAAAAJ&hl"
-  email            : "perfectwzq@gmail.com"
+  youtube          : "https://www.youtube.com/@Worldpeace-Forever"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -55,7 +56,6 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCK6zukQVR_a468-0nUVjUBQ"
   wikipedia        :
 
 
