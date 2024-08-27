@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ziqi Wang"
-  avatar           : "images/running_man.jpg"
+  avatar           : "images/running_man.png"
   bio              : "Harbin Institute of Technology"
   location         : "China"
   email            : "perfectwzq@gmail.com"
