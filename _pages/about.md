@@ -21,7 +21,7 @@ I am currently a master student at [the State Key Laboratory of Robotics and Sys
 
 I earned my bachelor’s degree at [School of Mechanical and Aerospace Engineering](https://mae.jlu.edu.cn) at [Jilin University](https://www.jlu.edu.cn) , under the guidance of [Prof. Zhihui Zhang](https://cbae.jlu.edu.cn/info/1221/3883.htm?eqid=ce15c342000be4c00000000364413dba). Now, I am pursuing a master's degree in the research group of [Prof. Jie Zhao](https://homepage.hit.edu.cn/zhaojie), Director of the Robotics Institute of Harbin Institute of Technology, under the guidance of [Prof. Yanhe Zhu](https://homepage.hit.edu.cn/zhuyanhe).
 
-My research interest includes preference-based optimizations of exoskeleton assistance during walking :walking: and anti-interference soft manipulator with precise motion controller :octopus: . I have published 4 papers in top international journals and 2 papers in top international robotics conferences with total <a href='https://scholar.google.com/citations?user=uQ24fEgAAAAJ'>google scholar citations <strong><span id='total_cit'>40+</span></strong></a> .
+My research interest includes preference-based optimizations of exoskeleton assistance during walking :person_walking: and anti-interference soft manipulator with precise motion controller :octopus: . I have published 4 papers in top international journals and 2 papers in top international robotics conferences with total <a href='https://scholar.google.com/citations?user=uQ24fEgAAAAJ'>google scholar citations <strong><span id='total_cit'>40+</span></strong></a> .
 
 
 # 🔥 News
