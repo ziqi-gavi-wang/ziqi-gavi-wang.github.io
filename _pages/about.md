@@ -25,8 +25,17 @@ My research interest includes preference-based optimizations of exoskeleton assi
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.06.30*: &nbsp;🎉🎉🎉My paper has been accepted for publication in the Proceedings of the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024) as oral pitch and interactive presentation.
+
+
+# 📖 Educations
+- *2022.06 - now*, Robotics Engineering, [the State Key Laboratory of Robotics and Systems](http://robot.hit.edu.cn), [Harbin Institute of Technology](https://www.hit.edu.cn), Harbin. 
+- *2018.09 - 2022.06*, Mechanical Engineering, [School of Mechanical and Aerospace Engineering](https://mae.jlu.edu.cn), [Jilin University](https://www.jlu.edu.cn), Changchun.
+
+
+# 💻 Internships
+- *2024.07 - 2024.08*, [Institute of Automation，Chinese Academy of Sciences](http://www.ia.cas.cn), Beijing, China.
+
 
 # 📝 Publications 
 
@@ -48,13 +57,4 @@ My research interest includes preference-based optimizations of exoskeleton assi
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2022.06 - now*, Robotics Engineering, [the State Key Laboratory of Robotics and Systems](http://robot.hit.edu.cn/), [Harbin Institute of Technology](https://www.hit.edu.cn), Harbin. 
-- *2018.09 - 2022.06*, Mechanical Engineering, [School of Mechanical and Aerospace Engineering](https://mae.jlu.edu.cn/), [Jilin University](https://www.jlu.edu.cn), Changchun.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
