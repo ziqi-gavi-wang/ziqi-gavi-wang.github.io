@@ -6,7 +6,7 @@ main:
   - title: "News"
     url: "/#-news"
 
- - title: "Educations"
+  - title: "Educations"
     url: "/#-educations"
 
   - title: "Internships"
