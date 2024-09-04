@@ -60,7 +60,7 @@ Xianglong Li, Quan Xiong, Dongbao Sui, Qinghua Zhang, Hongwu Li, **Ziqi Wang**, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE International Conference on Robotics and Automation (ICRA)</div><img src='images/preference.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Human-Exoskeleton Locomotion Interaction Experience Transfer: Speeding up and Improving the Performance of Preference-based Optimizations of Exoskeleton Assistance During Walkinge**](https://ieeexplore.ieee.org/abstract/document/10611497)
+[**Human-Exoskeleton Locomotion Interaction Experience Transfer: Speeding up and Improving the Performance of Preference-based Optimizations of Exoskeleton Assistance During Walking**](https://ieeexplore.ieee.org/abstract/document/10611497)
 
 Hongwu Li, Junchen Liu, **Ziqi Wang**, Haotian Ju, Tianjiao Zheng, Yongsheng Gao, Jie Zhao, Yanhe Zhu
 
