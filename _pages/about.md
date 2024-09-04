@@ -53,6 +53,9 @@ Xianglong Li, Quan Xiong, Dongbao Sui, Qinghua Zhang, Hongwu Li, **Ziqi Wang**, 
 
 [**YouTube**](https://www.youtube.com/watch?v=-eOcdWlXXww) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
+</div>
+</div>
+
 <!-- Paper 2024.5 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE International Conference on Robotics and Automation (ICRA)</div><img src='images/preference.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -67,6 +70,9 @@ Hongwu Li, Junchen Liu, **Ziqi Wang**, Haotian Ju, Tianjiao Zheng, Yongsheng Gao
 
 [**YouTube**](https://www.youtube.com/watch?v=vJgKvAGbhEc&t=31s) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
+</div>
+</div>
+
 <!-- Paper 2023.11 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biomimetics</div><img src='images/force.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -77,6 +83,9 @@ Hongwu Li, Haotian Ju, Junchen Liu, **Ziqi Wang**, Qinghua Zhang, Xianglong Li, 
 
 - A novel method for estimating CFMs based on a proposed dynamic decoupled coordinate system (DDCS) and the minimum energy hypothesis.
 - By decomposing CFMs into a DDCS, the number of unknowns can be significantly reduced from twelve to two. 
+
+</div>
+</div>
 
 <!-- Paper 2023.11 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Today Chemistry</div><img src='images/hydrogel.png' alt="sym" width="100%"></div></div>
@@ -90,6 +99,9 @@ S. Zu, Z. Wang, S. Zhang, Y. Guo, C. Chen, Q. Zhang, **Z. Wang**, T. Liu, Q. Liu
 - The 4D printed capsules featured with PNIPAM hydrogel as the shell, and the types and doses of drugs can be freely loaded.
 - Drug release profiles can be well programmed by adjusting the internal pore size of the hydrogel capsules.
 - In contrast to common 4D external shape change, we used 4D printing to produce change in internal material structure.
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2022.12* First Prize in the National Undergraduate Electronic Design Competition. 
