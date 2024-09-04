@@ -51,7 +51,7 @@ Xianglong Li, Quan Xiong, Dongbao Sui, Qinghua Zhang, Hongwu Li, **Ziqi Wang**, 
 - A novel cable–pneumatic hybrid-driven tapered soft manipulator (TSM) design and control scheme to enhance the performance in actual tasks.
 - Experimental results [spatial point positioning error (mean error of stable region: 0.17 mm), circular trajectory tracking error (mean and standard deviation (SD) of 100 trials: 0.87 ± 0.57 mm), orientation control error (less than 1 ∘ )].
 
-[**YouTube**](https://www.youtube.com/watch?v=-eOcdWlXXww) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Video**](https://www.youtube.com/watch?v=-eOcdWlXXww) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
@@ -68,7 +68,7 @@ Hongwu Li, Junchen Liu, **Ziqi Wang**, Haotian Ju, Tianjiao Zheng, Yongsheng Gao
 - A novel preference-based human-exoskeleton locomotion interaction experience transfer (LIET) framework, which could speed up the exploration of human-preferred parameters and acquire more satisfying results for naive wearers via the HELIE acquired from knowledgeable wearers.
 - Established the mathematical expression of the HELIE transfer during exoskeleton assistance based on the proposed LIET framework.
 
-[**YouTube**](https://www.youtube.com/watch?v=vJgKvAGbhEc&t=31s) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Video**](https://www.youtube.com/watch?v=vJgKvAGbhEc&t=31s) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 </div>
 </div>
