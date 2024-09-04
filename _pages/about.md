@@ -25,7 +25,7 @@ My research interest includes preference-based optimizations of exoskeleton assi
 
 
 # 🔥 News
-- *2022.06.30*: &nbsp;🎉🎉🎉My paper has been accepted for publication in the Proceedings of the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024) as oral pitch and interactive presentation.
+- *2024.06.30*: &nbsp;🎉🎉🎉My paper has been accepted for publication in the Proceedings of the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024) as oral pitch and interactive presentation.
 
 
 # 📖 Educations
