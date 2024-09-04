@@ -39,12 +39,17 @@ My research interest includes preference-based optimizations of exoskeleton assi
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- Paper 2024.7 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Robotics</div><img src='images/elephant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[**Disturbance-Adaptive Tapered Soft Manipulator with Precise Motion Controller for Enhanced Task Performance**](https://ieeexplore.ieee.org/document/10577463)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Xianglong Li, Quan Xiong, Dongbao Sui, Qinghua Zhang, Hongwu Li, **Ziqi Wang**, Tianjiao Zheng, Hesheng Wang, Jie Zhao, Yanhe Zhu
+
+[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10577463)
+- A novel cable–pneumatic hybrid-driven tapered soft manipulator (TSM) design and control scheme to enhance the performance in actual tasks.
+- Experimental results [spatial point positioning error (mean error of stable region: 0.17 mm), circular trajectory tracking error (mean and standard deviation (SD) of 100 trials: 0.87 ± 0.57 mm), orientation control error (less than 1 ∘ ).
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
