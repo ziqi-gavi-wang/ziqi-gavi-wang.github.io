@@ -49,10 +49,10 @@ Xianglong Li, Quan Xiong, Dongbao Sui, Qinghua Zhang, Hongwu Li, **Ziqi Wang**, 
 
 [**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10577463)
 - A novel cable–pneumatic hybrid-driven tapered soft manipulator (TSM) design and control scheme to enhance the performance in actual tasks.
-- Experimental results [spatial point positioning error (mean error of stable region: 0.17 mm), circular trajectory tracking error (mean and standard deviation (SD) of 100 trials: 0.87 ± 0.57 mm), orientation control error (less than 1 ∘ ).
+- Experimental results [spatial point positioning error (mean error of stable region: 0.17 mm), circular trajectory tracking error (mean and standard deviation (SD) of 100 trials: 0.87 ± 0.57 mm), orientation control error (less than 1 ∘ )].
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Youtube**](https://www.youtube.com/watch?v=-eOcdWlXXww) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 </div>
 </div>
 
