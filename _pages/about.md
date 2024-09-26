@@ -34,8 +34,8 @@ My research interest includes preference-based optimizations of exoskeleton assi
 
 
 # 💻 Internships
-- *2024.07 - 2024.08*, [R&D Intern， Institute of Automation， Chinese Academy of Sciences](http://www.ia.cas.cn), Beijing, China.
-- *2024.08 -  now*, [System Engineer Assistant Intern， UAV Business Department， Meituan], Beijing, China.
+- *2024.07 - 2024.08*, R&D Intern， Institute of Automation， Chinese Academy of Sciences, Beijing, China.
+- *2024.08 -  now*, System Engineer Assistant Intern， UAV Business Department， Meituan, Beijing, China.
 
 # 📝 Publications 
 <!-- Paper 2024.9 -->
