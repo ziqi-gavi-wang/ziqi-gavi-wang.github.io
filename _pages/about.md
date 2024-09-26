@@ -38,6 +38,22 @@ My research interest includes preference-based optimizations of exoskeleton assi
 
 
 # 📝 Publications 
+<!-- Paper 2024.9 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Reports Physical Science</div><img src='images/cell.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Biomimetic tapered soft manipulator with precision and load-bearing capacity**](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(24)00503-4)
+
+Xianglong Li, Shouyi Zhang, Quan Xiong, Dongbao Sui, Qinghua Zhang, **Ziqi Wang**, Lingkai Luan, Tianjiao Zheng, Jizhuang Fan, Jie Zhao, Yanhe Zhu
+
+[**Paper**]([https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10577463](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(24)00503-4))
+- A biomimetic tapered soft manipulator inspired by an elephant's trunk.
+- An equivalent finite element model for Bowden tube tendon analysis.
+- Large deformation and flexible movement of the entire robotic arm.
+- Verified stability, load-bearing, and safe human interaction through softening.
+
+</div>
+</div>
 
 <!-- Paper 2024.7 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Robotics</div><img src='images/elephant.png' alt="sym" width="100%"></div></div>
