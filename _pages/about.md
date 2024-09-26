@@ -34,8 +34,8 @@ My research interest includes preference-based optimizations of exoskeleton assi
 
 
 # 💻 Internships
-- *2024.07 - 2024.08*, [Institute of Automation，Chinese Academy of Sciences](http://www.ia.cas.cn), Beijing, China.
-
+- *2024.07 - 2024.08*, [R&D Intern， Institute of Automation， Chinese Academy of Sciences](http://www.ia.cas.cn), Beijing, China.
+- *2024.08 -  now*, [System Engineer Assistant Intern， UAV Business Department， Meituan], Beijing, China.
 
 # 📝 Publications 
 <!-- Paper 2024.9 -->
@@ -46,7 +46,7 @@ My research interest includes preference-based optimizations of exoskeleton assi
 
 Xianglong Li, Shouyi Zhang, Quan Xiong, Dongbao Sui, Qinghua Zhang, **Ziqi Wang**, Lingkai Luan, Tianjiao Zheng, Jizhuang Fan, Jie Zhao, Yanhe Zhu
 
-[**Paper**]([https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10577463](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(24)00503-4))
+[**Paper**](https://www.cell.com/action/showPdf?pii=S2666-3864%2824%2900503-4)
 - A biomimetic tapered soft manipulator inspired by an elephant's trunk.
 - An equivalent finite element model for Bowden tube tendon analysis.
 - Large deformation and flexible movement of the entire robotic arm.
