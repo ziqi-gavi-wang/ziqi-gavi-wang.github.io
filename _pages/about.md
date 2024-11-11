@@ -25,6 +25,7 @@ My research interest includes preference-based optimizations of exoskeleton assi
 
 
 # 🔥 News
+- *2024.10.25*: &nbsp;🎉🎉🎉My team and I won the special prize in the China Graduate Robot Innovation Design Competition and third place in the country.
 - *2024.06.30*: &nbsp;🎉🎉🎉My paper has been accepted for publication in the Proceedings of the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024) as oral pitch and interactive presentation.
 
 
