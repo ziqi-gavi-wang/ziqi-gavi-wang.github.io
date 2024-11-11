@@ -124,5 +124,6 @@ S. Zu, Z. Wang, S. Zhang, Y. Guo, C. Chen, Q. Zhang, **Z. Wang**, T. Liu, Q. Liu
 - *2022.12* First Prize in the National Undergraduate Electronic Design Competition. 
 - *2023.12* First Prize of Harbin Institute of Technology Space Station Space Science and Payload Creative Innovation Design Competition.
 - *2024.07* Second Prize of China Postgraduate Robot Innovation Design Competition.
+- *2024.10* Special prize in the China Graduate Robot Innovation Design Competition.
 
 
