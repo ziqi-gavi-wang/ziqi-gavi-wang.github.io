@@ -41,7 +41,7 @@ My research interest includes preference-based optimizations of exoskeleton assi
 
 # 📝 Publications 
 <!-- Paper 2024.10 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Reports Physical Science</div><img src='images/using.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</div><img src='images/using.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Using Hip Assisted Running Exoskeleton with Impact Isolation Mechanism to Improve Energy Efficiency**](https://ieeexplore.ieee.org/abstract/document/10802632)
