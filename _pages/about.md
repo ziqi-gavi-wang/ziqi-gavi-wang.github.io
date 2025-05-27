@@ -25,6 +25,7 @@ My research interest includes preference-based optimizations of exoskeleton assi
 
 
 # 🔥 News
+- *2025.05.17*: &nbsp;🎉🎉🎉I was accepted into the Doctor of Philosophy in Biomedical Engineering Programme at the College of Design and Engineering at the National University of Singapore 🇸🇬🦁🏫 and received funding from the NUS RESEARCH SCHOLARSHIP.
 - *2024.10.25*: &nbsp;🎉🎉🎉My team and I won the special prize in the China Graduate Robot Innovation Design Competition and third place in the country.
 - *2024.06.30*: &nbsp;🎉🎉🎉My paper has been accepted for publication in the Proceedings of the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024) as oral pitch and interactive presentation.
 
@@ -36,9 +37,27 @@ My research interest includes preference-based optimizations of exoskeleton assi
 
 # 💻 Internships
 - *2024.07 - 2024.08*, R&D Intern， Institute of Automation， Chinese Academy of Sciences, Beijing, China.
-- *2024.08 -  now*, System Engineer Assistant Intern， UAV Business Department， Meituan, Beijing, China.
+- *2024.09 - 2024.12*, System Engineer Assistant Intern， UAV Business Department， Meituan, Beijing, China.
 
 # 📝 Publications 
+<!-- Paper 2024.10 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Reports Physical Science</div><img src='images/cell.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Using Hip Assisted Running Exoskeleton with Impact Isolation Mechanism to Improve Energy Efficiency**](https://ieeexplore.ieee.org/abstract/document/10802632)
+
+**Ziqi Wang**, Junchen Liu, Hongwu Li, Qinghua Zhang, Xianglong Li, Yi Huang, Haotian Ju, Tianjiao Zheng, Jie Zhao, Yanhe Zhu
+
+[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10802632)
+- An innovative and efficient hip-assisted running exoskeleton designed to facilitate the flexion and extension movements of the joint along the sagittal plane.
+- An active-passive combination constant force suspension system to effectively mitigate the impact of inertial forces during running.
+- The joint torque-generating strategy provides personalized assistance strategies for wearers to actively optimize the control parameters.
+- The exoskeleton can reduce the energy consumption of the human body by 5.33 % at a speed of 9 km/h. 
+
+</div>
+</div>
+
+
 <!-- Paper 2024.9 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Reports Physical Science</div><img src='images/cell.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
